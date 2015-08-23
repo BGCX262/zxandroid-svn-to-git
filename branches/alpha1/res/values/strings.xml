@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">ZXAndroid</string>
+
+	<string name="menu_start">Start</string>
+	<string name="menu_stop">Stop</string>
+	<string name="menu_pause">Pause</string>
+	<string name="menu_resume">Resume</string>
+
+
+	<string name="zxandroid_layout_text_text"></string>
+</resources>
